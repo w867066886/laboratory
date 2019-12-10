@@ -123,6 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CombinationSum.cpp" />
+    <ClCompile Include="tet.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CombinationSum.h" />
+    <ClInclude Include="tet.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
